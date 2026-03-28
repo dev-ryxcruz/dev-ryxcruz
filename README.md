@@ -22,11 +22,10 @@ Sou um entusiasta de tecnologia e solucionador de problemas, combinando minha ex
 
 Como estudante de Análise e Desenvolvimento de Sistemas, estou sempre buscando novos conhecimentos. Atualmente, meu foco está em:
 
--   Aprofundar meus conhecimentos em **JavaScript** e suas aplicações no front-end.
+-   Aprofundar meus conhecimentos em **React** e ecossistema front-end moderno.
+-   Desenvolvimento robusto utilizando **C#** e .NET.
 -   Estudar **Estruturas de Dados e Algoritmos** para construir um alicerce sólido em lógica de programação.
 -   Aprender sobre **Bancos de Dados SQL** para manipulação e gerenciamento de informações.
-
-No futuro, meu objetivo é me aprofundar em tecnologias de desenvolvimento web e, quem sabe, contribuir para projetos de código aberto.
 
 ---
 
@@ -78,6 +77,14 @@ No futuro, meu objetivo é me aprofundar em tecnologias de desenvolvimento web e
       <br>JavaScript
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br>Python
     </td>
@@ -85,13 +92,9 @@ No futuro, meu objetivo é me aprofundar em tecnologias de desenvolvimento web e
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
+      <img src="https://skillicons.dev/icons?i=arch" width="48" height="48" alt="Arch Linux" />
+      <br>Arch Linux
     </td>
   </tr>
 </table>
