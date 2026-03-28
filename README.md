@@ -11,8 +11,8 @@
 
 Sou um entusiasta de tecnologia e solucionador de problemas, combinando minha experiência em Suporte de TI com minha paixão pelo desenvolvimento de software para criar soluções práticas e eficientes.
 
-- 🔭 Atualmente trabalho como **Assistente de Sistemas**, prestando suporte técnico e ajudando a manter a infraestrutura de TI.
-- 🌱 Estou cursando **Análise e Desenvolvimento de Sistemas** na FATEC Franca, com previsão de formatura em 2027.
+- 🔭 Atualmente trabalho como **Assistente de Sistemas**.
+- 🌱 Estou cursando **Análise e Desenvolvimento de Sistemas**.
 - 💡 Tenho um interesse especial em desenvolvimento web e na criação de ferramentas para automação de processos.
 - 📫 Como entrar em contato: **ryancristianalvesdacruz@gmail.com**
 
