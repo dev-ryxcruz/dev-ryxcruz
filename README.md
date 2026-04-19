@@ -79,6 +79,9 @@ Dedico-me a aprofundar conhecimentos em estruturas de dados e algoritmos para co
 
 ---
 
-<p align="center">
-  "Transformando lógica em soluções e problemas em código eficiente."
-</p>
+<div align="center">
+
+> *"A criatividade é uma combinação de disciplina e ânimo infantil."* <br>
+> — **Robert Greene**
+
+</div>
