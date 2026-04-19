@@ -23,7 +23,7 @@ A minha experiência no suporte permite-me identificar rapidamente a raiz dos pr
 
 O meu foco atual é o desenvolvimento robusto com o ecossistema Microsoft e tecnologias web modernas:
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
