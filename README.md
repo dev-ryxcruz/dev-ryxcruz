@@ -1,4 +1,5 @@
 # Olá, eu sou o Ryan Cristian 👋
+**Desenvolvedor | Assistente de Sistemas | C# & .NET**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ryan-cristian-a0889324b" target="_blank">
@@ -7,94 +8,77 @@
   <a href="https://www.instagram.com/ryan.cadc" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
+  <a href="mailto:ryancristianalvesdacruz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-Sou um entusiasta de tecnologia e solucionador de problemas, combinando minha experiência em Suporte de TI com minha paixão pelo desenvolvimento de software para criar soluções práticas e eficientes.
+Sou um entusiasta de tecnologia e solucionador de problemas, focado em transformar desafios reais em soluções digitais eficientes. Atualmente, curso **Análise e Desenvolvimento de Sistemas** (previsão 2027) e trabalho como **Assistente de Sistemas**.
 
-- 🔭 Atualmente trabalho como **Assistente de Sistemas**.
-- 🌱 Estou cursando **Análise e Desenvolvimento de Sistemas**.
-- 💡 Tenho um interesse especial em desenvolvimento web e na criação de ferramentas para automação de processos.
-- 📫 Como entrar em contato: **ryancristianalvesdacruz@gmail.com**
-
----
-
-## 🌱 Foco Atual e Próximos Passos
-
-Como estudante de Análise e Desenvolvimento de Sistemas, estou sempre buscando novos conhecimentos. Atualmente, meu foco está em:
-
--   Aprofundar meus conhecimentos em **React** e ecossistema front-end moderno.
--   Desenvolvimento robusto utilizando **C#** e .NET.
--   Estudar **Estruturas de Dados e Algoritmos** para construir um alicerce sólido em lógica de programação.
--   Aprender sobre **Bancos de Dados SQL** para manipulação e gerenciamento de informações.
-
----
-
-## 🚀 Meus Projetos
-
-<table>
-  <tr>
-    <td width="200" align="center">
-      <br>
-      <img src="https://github.com/dev-ryxcruz/proton-controle-protocolos/blob/main/proton-logo.png?raw=true" alt="Logo do Proton" width="150">
-      <br>
-    </td>
-    <td>
-      <h3 align="left">Proton - Ferramenta de Controle de Protocolos</h3>
-      <p align="left">
-        Aplicação web que desenvolvi para digitalizar e otimizar o processo de controle de protocolos no setor que trabalhei, substituindo planilhas manuais. A ferramenta possui dashboard, gráficos de produtividade e exportação para Excel.
-      </p>
-      <p align="left">
-        <b>Tecnologias:</b> HTML, CSS, JavaScript (Vanilla), Chart.js, ExcelJS
-      </p>
-      <p align="left">
-        <a href="https://dev-ryxcruz.github.io/proton-controle-protocolos/" target="_blank">
-          <img src="https://img.shields.io/badge/SITE-20A4F3?style=for-the-badge">
-        </a>
-        <a href="https://github.com/dev-ryxcruz/proton-controle-protocolos" target="_blank">
-          <img src="https://img.shields.io/badge/Código_Fonte-000000?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+A minha experiência no suporte permite-me identificar rapidamente a raiz dos problemas — separando falhas de sistema de questões operacionais — para criar ferramentas que otimizam processos e eliminam gargalos.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
+O meu foco atual é o desenvolvimento robusto com o ecossistema Microsoft e tecnologias web modernas:
+
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
       <br>C#
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" width="48" height="48" alt="Blazor" />
+      <br>Blazor
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+      <br>SQLite
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=arch" width="48" height="48" alt="Arch Linux" />
       <br>Arch Linux
     </td>
   </tr>
 </table>
+
+---
+
+## 🚀 Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="200" align="center">
+      <img src="https://github.com/dev-ryxcruz/Mechsystem/blob/main/wwwroot/logo.png" alt="Logo Mechsystem" width="90">
+    </td>
+    <td>
+      <h3><a href="https://github.com/dev-ryxcruz/Mechsystem">Mechsystem - Gestão de Oficinas</a></h3>
+      <p>Sistema robusto para organizar o fluxo administrativo, financeiro e operacional de oficinas mecânicas.</p>
+      <p><b>Tecnologias:</b> C#, Blazor Server, SQLite.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="200" align="center">
+      <img src="https://github.com/dev-ryxcruz/proton-controle-protocolos/blob/main/proton-logo.png?raw=true" alt="Logo Proton" width="110">
+    </td>
+    <td>
+      <h3><a href="https://github.com/dev-ryxcruz/proton-controle-protocolos">Proton - Controle de Protocolos</a></h3>
+      <p>Aplicação web criada para digitalizar o controlo de protocolos, substituindo processos manuais por dashboards de produtividade.</p>
+      <p><b>Tecnologias:</b> HTML, CSS, JavaScript, Chart.js.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌱 Visão e Futuro
+
+Dedico-me a aprofundar conhecimentos em estruturas de dados e algoritmos para construir alicerces sólidos. O meu objetivo é alcançar a senioridade em projetos de grande escala e inspirar outros profissionais na área tecnológica.
+
+---
+
+<p align="center">
+  "Transformando lógica em soluções e problemas em código eficiente."
+</p>
